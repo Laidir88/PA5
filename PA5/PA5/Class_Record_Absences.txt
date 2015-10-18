@@ -1,0 +1,26 @@
+Class record for students with at least 2absences.
+=========================
+Student: Mort, Kris ID: 3255
+Email: mort@cpts122.edu
+Major: CSClass standing: Senior
+Credits: 4
+Total Absences: 2
+10/17/2015, 
+10/17/2015, 
+=========================
+Student: Willis, Bruce ID: 1222
+Email: brucewillis@cpts122.edu
+Major: CSClass standing: Sophomore
+Credits: 0
+Total Absences: 2
+10/17/2015, 
+10/17/2015, 
+=========================
+Student: Smith, John ID: 1111
+Email: smithj@cpts122.edu
+Major: CSClass standing: Freshman
+Credits: 4
+Total Absences: 2
+10/17/2015, 
+10/17/2015, 
+=========================

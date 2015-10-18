@@ -1,0 +1,73 @@
+Class record: 
+=========================
+Student: Smith,  John ID: 1111
+Email: smithj@cpts122.edu
+Major: CSClass standing: Freshman
+Credits: 4
+Total Absences: 2
+10/17/2015, 
+10/17/2015, 
+=========================
+Student: Beck,  Sara ID: 8147
+Email: sara@cpts122.edu
+Major: EEClass standing: Junior
+Credits: 4
+Total Absences: 1
+10/17/2015, 
+=========================
+Student: Leinart,  Timothy ID: 1121
+Email: tim@cpts122.edu
+Major: EEClass standing: Junior
+Credits: 4
+Total Absences: 1
+10/17/2015, 
+=========================
+Student: Art,  Bruce ID: 4478
+Email: bart@cpts122.edu
+Major: CPTEClass standing: Freshman
+Credits: 0
+Total Absences: 1
+10/17/2015, 
+=========================
+Student: James,  Hannah ID: 2121
+Email: jameshannah@cpts122.edu
+Major: CSClass standing: Freshman
+Credits: 4
+Total Absences: 1
+10/17/2015, 
+=========================
+Student: Payton,  Ella ID: 5530
+Email: epayton@cpts122.edu
+Major: CPTEClass standing: Graduate
+Credits: 4
+Total Absences: 1
+10/17/2015, 
+=========================
+Student: Sam,  Theo ID: 7759
+Email: samt@cpts122.edu
+Major: EEClass standing: Sophomore
+Credits: 4
+Total Absences: 0
+=========================
+Student: Smith,  Jane ID: 1122
+Email: jane@cpts122.edu
+Major: CSClass standing: Sophomore
+Credits: 4
+Total Absences: 0
+=========================
+Student: Willis,  Bruce ID: 1222
+Email: brucewillis@cpts122.edu
+Major: CSClass standing: Sophomore
+Credits: 0
+Total Absences: 2
+10/17/2015, 
+10/17/2015, 
+=========================
+Student: Mort,  Kris ID: 3255
+Email: mort@cpts122.edu
+Major: CSClass standing: Senior
+Credits: 4
+Total Absences: 2
+10/17/2015, 
+10/17/2015, 
+=========================
